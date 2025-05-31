@@ -1,5 +1,5 @@
 # Navigate to your local repo
-cd your-repo
+cd your-repo.
 
 # Remove the README.md file
 rm README.md
